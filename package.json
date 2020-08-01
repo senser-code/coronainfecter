@@ -1,0 +1,15 @@
+{
+  "name": "coronainfecter",
+  "version": "1.0.0",
+  "description": "op nuker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stroketon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "bin": "index.js"
+}
