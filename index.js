@@ -1,5 +1,4 @@
 const Discord = require("discord.js");
-const BotToken = "NzMyMjA4NjkwNDYzMTEzMjc2.XwxQfw.sroLhUs1GTz9Lk8SxOqq15MpgEk";
 const Bot = new Discord.Client();
 const coronainfecter = require("./coronainfecter");
 let CMDArgs = process.argv.slice(2);
